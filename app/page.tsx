@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 
 
-const SID_LOCATION = { lat: 6.229313393664008, lng: 7.09846079561097 }; 
+const SID_LOCATION = { lat: 6.2198, lng: 7.0717 }; 
 const ALLOWED_RADIUS_METERS = 150; // how close (in metres) a person must be
 const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeqIIxt5REKIixmWbNeKS6Hk_wdKTvI5b9y0DkobnJCsRF0xg/viewform?usp=dialog"; // your attendance form link
 // -------------------------------------------------------
